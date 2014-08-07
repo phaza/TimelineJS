@@ -29,7 +29,7 @@
   ],
   "repository": {
   "type": "git",
-  "url": "git@github.com:NUKnightLab/TimelineJS.git"
+  "url": "git@github.com:phaza/TimelineJS.git"
   },
   "license": "MPL v2.0",
   "ignore": [
