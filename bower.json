@@ -10,6 +10,9 @@
   "main": [
     "build/js/timeline.js",
     "build/css/timeline.css",
+    "build/css/timeline.png",
+    "build/css/timeline@2x.png",
+    "build/css/loading.gif",
     "build/embed/index.html",
     "build/js/storyjs-embed.js",
     "build/js/storyjs-embed-generator.js",
