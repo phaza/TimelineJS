@@ -8,7 +8,7 @@
   ],
   "description": "A Storytelling Timeline built in JavaScript.",
   "main": [
-    "build/*"
+    "build"
   ],
   "keywords": [
     "timeline",
